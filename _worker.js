@@ -8,11 +8,17 @@ let addresses = [
 	'icook.tw:2053#官优域',
 	'cloudflare.cfgo.cc#优官路'，
 	'bestcf.030101.xyz#官方优选'，
+	'cf.090227.xyz#三网自适应',
+	'cfip.xxxxxxxx.tk#OTC优选',
+	'bestcf.onecf.eu.org#Mingyu',
+	'cf.zhetengsha.eu.org#小一',
+	'bestproxy.onecf.eu.org#Mingyu反代',
+	'proxy.xxxxxxxx.tk#OTC反代',
 ];
 
 // 设置优选地址api接口
 let addressesapi = [
-	'https://cf-workers-text2kv-3c1.pages.dev/CloudCFIP.txt?token=aa147258369', //可参考内容格式 自行搭建。
+	'https://cf-workers-text2kv-3c1.pages.dev/CloudCFIP.txt?token=aa147258369&t=1731979832836', //可参考内容格式 自行搭建。
 	//'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesipv6api.txt', //IPv6优选内容格式 自行搭建。
 ];
 
