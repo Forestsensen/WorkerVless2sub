@@ -26,8 +26,6 @@ let addresses = [
 	'www.wto.org:8443',
 	'fbi.gov:2087',
 	'icook.hk',
-	'bestcf.030101.xyz#优选',
-	'icook.tw#官方优选',
 ];
 
 // 设置优选地址api接口
