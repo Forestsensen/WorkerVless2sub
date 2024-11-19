@@ -13,6 +13,21 @@ let addresses = [
 	'cf.zhetengsha.eu.org#小一',
 	'bestproxy.onecf.eu.org#Mingyu反代',
 	'proxy.xxxxxxxx.tk#OTC反代',
+	'Join.my.Telegram.channel.CMLiussss.to.unlock.more.premium.nodes.cf.090227.xyz#CM优选',
+	'visa.cn:443',
+	'singapore.com:8443',
+	'japan.com:2053',
+	'brazil.com:2083',
+	'russia.com:2087',
+	'www.gov.ua:2096',
+	'www.gco.gov.qa:8443',
+	'www.gov.se',
+	'time.is',
+	'www.wto.org:8443',
+	'fbi.gov:2087',
+	'icook.hk',
+	'bestcf.030101.xyz#优选',
+	'icook.tw#官方优选',
 ];
 
 // 设置优选地址api接口
